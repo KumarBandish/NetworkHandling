@@ -1,6 +1,7 @@
 # NetworkHandling
 Rest API Call in Swift
 
-Backgorund_Downloading: Download a file from server when App is in foreground and show file downloading progress.
+Downloading_progress: Download a file from server when App is in foreground and show file downloading progress.
 
-Downloading Files in the Background: Create tasks that download files while app is inactive.
+Backgorund_Downloading: Create tasks that download files while app is inactive(App state- backgorund, susupended).
+
